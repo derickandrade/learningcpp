@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D\u00E9rick\\source\\repos\\04_comportamento_indefindo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1035A240-409E-422E-BB99-F4382E33790C}|comportamento_indefindo.vcxproj|C:\\Users\\D\u00E9rick\\source\\repos\\04_comportamento_indefindo\\comportamento_indefindo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1035A240-409E-422E-BB99-F4382E33790C}|comportamento_indefindo.vcxproj|solutionrelative:comportamento_indefindo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "comportamento_indefindo.cpp",
+              "DocumentMoniker": "C:\\Users\\D\u00E9rick\\source\\repos\\04_comportamento_indefindo\\comportamento_indefindo.cpp",
+              "RelativeDocumentMoniker": "comportamento_indefindo.cpp",
+              "ToolTip": "C:\\Users\\D\u00E9rick\\source\\repos\\04_comportamento_indefindo\\comportamento_indefindo.cpp",
+              "RelativeToolTip": "comportamento_indefindo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T16:43:02.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

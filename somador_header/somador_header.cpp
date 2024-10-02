@@ -1,0 +1,11 @@
+#include "io.h"
+
+int main()
+{
+    int x{ readNumber() };
+    int y{ readNumber() };
+    int resultado{ x + y };
+    writeAnswer(resultado);
+
+}
+

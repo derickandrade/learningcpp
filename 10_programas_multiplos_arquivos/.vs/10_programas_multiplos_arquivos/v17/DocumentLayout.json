@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE041F5-FAED-47A6-9617-C3EBAC1E8F5F}|10_programas_multiplos_arquivos.vcxproj|C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\10_programas_multiplos_arquivos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCE041F5-FAED-47A6-9617-C3EBAC1E8F5F}|10_programas_multiplos_arquivos.vcxproj|solutionrelative:10_programas_multiplos_arquivos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE041F5-FAED-47A6-9617-C3EBAC1E8F5F}|10_programas_multiplos_arquivos.vcxproj|C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\printar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCE041F5-FAED-47A6-9617-C3EBAC1E8F5F}|10_programas_multiplos_arquivos.vcxproj|solutionrelative:printar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE041F5-FAED-47A6-9617-C3EBAC1E8F5F}|10_programas_multiplos_arquivos.vcxproj|C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCE041F5-FAED-47A6-9617-C3EBAC1E8F5F}|10_programas_multiplos_arquivos.vcxproj|solutionrelative:add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "printar.cpp",
+              "DocumentMoniker": "C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\printar.cpp",
+              "RelativeDocumentMoniker": "printar.cpp",
+              "ToolTip": "C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\printar.cpp",
+              "RelativeToolTip": "printar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T15:37:39.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10_programas_multiplos_arquivos.cpp",
+              "DocumentMoniker": "C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\10_programas_multiplos_arquivos.cpp",
+              "RelativeDocumentMoniker": "10_programas_multiplos_arquivos.cpp",
+              "ToolTip": "C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\10_programas_multiplos_arquivos.cpp",
+              "RelativeToolTip": "10_programas_multiplos_arquivos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T15:37:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add.cpp",
+              "DocumentMoniker": "C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\add.cpp",
+              "RelativeDocumentMoniker": "add.cpp",
+              "ToolTip": "C:\\Users\\D\u00E9rick\\source\\repos\\10_programas_multiplos_arquivos\\add.cpp",
+              "RelativeToolTip": "add.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T15:37:36.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

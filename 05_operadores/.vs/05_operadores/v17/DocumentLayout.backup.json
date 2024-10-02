@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D\u00E9rick\\source\\repos\\05_operadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EAF321-AEBD-4C40-BFFA-766C0F559D62}|05_operadores.vcxproj|C:\\Users\\D\u00E9rick\\source\\repos\\05_operadores\\05_operadores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EAF321-AEBD-4C40-BFFA-766C0F559D62}|05_operadores.vcxproj|solutionrelative:05_operadores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "05_operadores.cpp",
+              "DocumentMoniker": "C:\\Users\\D\u00E9rick\\source\\repos\\05_operadores\\05_operadores.cpp",
+              "RelativeDocumentMoniker": "05_operadores.cpp",
+              "ToolTip": "C:\\Users\\D\u00E9rick\\source\\repos\\05_operadores\\05_operadores.cpp*",
+              "RelativeToolTip": "05_operadores.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T16:28:03.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  05_operadores.cpp
+C:\Users\Dérick\source\repos\05_operadores\05_operadores.cpp(9,13): warning C4101: 'x': variável local não referenciada
+  05_operadores.vcxproj -> C:\Users\Dérick\source\repos\05_operadores\x64\Debug\05_operadores.exe
