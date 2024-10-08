@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D\u00E9rick\\source\\repos\\isEven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01218E-49BE-4C3F-9473-3AF6BE20F37B}|isEven.vcxproj|C:\\Users\\D\u00E9rick\\source\\repos\\isEven\\isEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA01218E-49BE-4C3F-9473-3AF6BE20F37B}|isEven.vcxproj|solutionrelative:isEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "isEven.cpp",
+              "DocumentMoniker": "C:\\Users\\D\u00E9rick\\source\\repos\\isEven\\isEven.cpp",
+              "RelativeDocumentMoniker": "isEven.cpp",
+              "ToolTip": "C:\\Users\\D\u00E9rick\\source\\repos\\isEven\\isEven.cpp",
+              "RelativeToolTip": "isEven.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T11:31:58.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
