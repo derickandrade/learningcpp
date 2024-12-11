@@ -33,4 +33,5 @@ int main(){
             std::cout << "Carlos ganhou\n";
         }
     }
+    return 0;
 }
